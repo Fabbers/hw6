@@ -1,0 +1,97 @@
+body {
+    width: 100%;
+    max-height: 1310px;
+    font-family: "Tahoma";
+}
+
+.wrapper {
+    width: 1000px;
+    max-height: 1310px;
+    margin: 0 auto;
+    background-color: mintcream;
+    font-family: "Ariel";
+}
+.topper {
+    background-color: aquamarine;
+    width: 909px;
+    height: 27px;
+    margin: 0 auto;
+}
+
+.tire-wrapper {
+    width: 909px;
+    height: 237px;
+    margin: 0 auto;
+    display: block;
+/*    position: relative;*/
+}
+
+img {
+    
+}
+
+.phone {
+    font-size: 18px;
+    width: 298px;
+    height 27px;
+    background-color: bisque;
+    
+}
+
+.phone-icon {
+    border-radius: 12px;
+    height: 23px;
+    width: 23px;
+    text-align: center;  /* align the inline(-block) elements horizontally */
+    font: 0/0 a;  
+    clear: none
+    background: rgba(12,51,87,1);
+background: -moz-linear-gradient(top, rgba(12,51,87,1) 0%, rgba(240,47,23,1) 0%, rgba(46,122,196,1) 0%, rgba(31,103,134,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(12,51,87,1)), color-stop(0%, rgba(240,47,23,1)), color-stop(0%, rgba(46,122,196,1)), color-stop(100%, rgba(31,103,134,1)));
+background: -webkit-linear-gradient(top, rgba(12,51,87,1) 0%, rgba(240,47,23,1) 0%, rgba(46,122,196,1) 0%, rgba(31,103,134,1) 100%);
+background: -o-linear-gradient(top, rgba(12,51,87,1) 0%, rgba(240,47,23,1) 0%, rgba(46,122,196,1) 0%, rgba(31,103,134,1) 100%);
+background: -ms-linear-gradient(top, rgba(12,51,87,1) 0%, rgba(240,47,23,1) 0%, rgba(46,122,196,1) 0%, rgba(31,103,134,1) 100%);
+background: linear-gradient(to bottom, rgba(12,51,87,1) 0%, rgba(240,47,23,1) 0%, rgba(46,122,196,1) 0%, rgba(31,103,134,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0c3357', endColorstr='#1f6786', GradientType=0 );
+    
+}
+
+.phone-icon>img { 
+    display: inline-block;
+    vertical-align: middle;  
+    content: ' ';
+    display: inline-block;
+    vertical-align: middle;  /* vertical alignment of the inline element */
+    height: 100%;
+
+p {
+    display: block;
+}
+
+ {
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+.phone {
+    max-height: 27px;
+    display: block
+
+}
+
+div {
+    
+}
